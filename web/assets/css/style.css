@@ -116,7 +116,7 @@ ul.alert-dropdown {
         border: none;
         border-radius: 0;
         overflow-y: auto;
-        background-color: #1565C0;
+        background-color: #00796B;
         bottom: 0;
         overflow-x: hidden;
         padding-bottom: 40px;
@@ -152,6 +152,6 @@ ul.alert-dropdown {
 }
 
 .navbar{
-    background: #1565C0
+    background: #00796B
 }
 

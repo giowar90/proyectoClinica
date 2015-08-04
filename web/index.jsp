@@ -41,7 +41,7 @@
                             <li><a href="#anch1">Conócenos</a></li>
                             <li><a href="#anch2">Nuestro Equipo</a></li>
                             <li><li class="dropdown">
-                                <a href="#" class="dropdown-toggle" data-toggle="dropdown"><b><font color="ffffff">Login</font></b> <span class="caret"></span></a>
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown"><b><font color="ffffff">Acceder</font></b> <span class="caret"></span></a>
                                 <ul id="login-dp" class="dropdown-menu">
                                     <li>
                                         <div class="row">

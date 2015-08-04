@@ -88,7 +88,7 @@ body {overflow-x:hidden;}
 }
 
 .sidebar-nav li a {
-    color: #999999;
+    color: #fff;
     display: block;
     text-decoration: none;
     padding-left: 60px;
@@ -122,7 +122,7 @@ body {overflow-x:hidden;}
 }
 
 .sidebar-nav > .sidebar-brand a {
-    color: #999999;
+    color: #fff;
 }
 
 .sidebar-nav > .sidebar-brand a:hover {
@@ -212,11 +212,11 @@ body {overflow-x:hidden;}
     margin-bottom: 10px;
 }
 .btn-fb{
-    color: #fff;
+    color: #004D40;
     background-color:#3b5998;
 }
 .btn-fb:hover{
-    color: #fff;
+    color: #004D40;
     background-color:#496ebc 
 }
 .btn-tw{
